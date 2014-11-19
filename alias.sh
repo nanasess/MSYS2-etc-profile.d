@@ -1,5 +1,5 @@
 alias ls='ls --color=auto --show-control-chars'
-alias open='explorer.exe'
+alias open='start'
 alias emacsclient='C:/emacs-24.4/bin/emacsclientw.exe'
 
 ## see. https://gist.github.com/1244467
