@@ -1,6 +1,7 @@
 alias ls='ls --color=auto --show-control-chars'
 alias open='start'
 alias emacsclient='C:/emacs-24.4/bin/emacsclientw.exe'
+alias grep="LANG=C grep"
 
 ## see. https://gist.github.com/1244467
 ## Invoke the ``dired'' of current working directory in Emacs buffer.
